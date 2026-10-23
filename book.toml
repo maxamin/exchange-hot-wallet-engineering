@@ -1,0 +1,7 @@
+[book]
+title = "Exchange Hot Wallet Engineering"
+language = "en"
+src = "."
+
+[output.html]
+git-repository-url = "https://github.com/<you>/exchange-hot-wallet-engineering"
